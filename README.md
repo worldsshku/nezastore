@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://a.uguu.se/JdgoBrk.jpg" alt="Hinata-Md" width="100"/>
+<img src="https://a.uguu.se/JdgoBrk.jpg" alt="NEZASTORE" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HINATA HYUGA" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NEZASTORE" src="https://img.shields.io/badge/NEZASTORE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6283129011845)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -50,7 +50,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riychdwayne/Hinata-Md.git
+git clone https://github.com/NezaVPN1/nezastore.git
 cd Hinata-Md
 pkg install yarn
 yarn
@@ -68,10 +68,9 @@ npm start
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6285777333143?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6285777333143?text=Bang+mau+donasi)
 
 # Thanks to
-- Irfan
-- Yoga
-- Riy
+- WORLDSSH
+- JOMBLOSSH
