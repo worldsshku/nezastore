@@ -16,14 +16,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friychdwayne%2FHinata-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/riychdwayne/Hinata-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
-
-<p align="center">
-  <a href="https://github.com/riychdwayne/Hinata-Md#requirements">Requirements</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Md#instalasi">Installation</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/riychdwayne/Hinata-Md#donate">Donate</a>
-</p>
 </div>
 
 
@@ -51,7 +43,7 @@ termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
 git clone https://github.com/NezaVPN1/nezastore.git
-cd Hinata-Md
+cd nezastore
 pkg install yarn
 yarn
 npm start
