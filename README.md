@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6283129011845)
+* Info Lebih Lanjut, Chat [nezastore](https://wa.me/6283129011845)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -59,7 +59,7 @@ npm start
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/U1suj4wuWvc)<br>
+[`Click Here For Tutorial`](https://youtu.be/c/WORLDSSH)<br>
 
 ----------
 
